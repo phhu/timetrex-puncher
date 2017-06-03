@@ -1,0 +1,7 @@
+module.exports = {
+	'api_url': 'https://some.host/timetrex/api/json/api.php',
+	cred: {
+		'user_name': 'admin',
+		'password': 'xxxxxxxxxx'
+	}
+};

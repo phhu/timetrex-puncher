@@ -1,0 +1,29 @@
+{
+  "name": "timetrexpuncher",
+  "version": "0.0.1",
+  "description": "utility for adding punches to timetrex via API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phhu/timetrexpuncher.git"
+  },
+  "keywords": [
+    "timetrex",
+    "punch"
+  ],
+  "author": "phhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phhu/timetrexpuncher/issues"
+  },
+  "homepage": "https://github.com/phhu/timetrexpuncher#readme",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "querystring": "^0.2.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
